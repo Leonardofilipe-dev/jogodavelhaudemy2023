@@ -75,10 +75,10 @@ h1 {
 
 /*classe de esconder*/
 
-/*.hide{
+*.hide{
     display: none !important;
     
-}*/
+}
 
 #scoreboard{
     font-weight: bold;
@@ -119,6 +119,7 @@ h1 {
     background-color: #000;
     color: #FFF;
     padding: 20px;
-    display: none;
+    
+   
 }
 
